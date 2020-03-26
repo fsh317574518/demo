@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 other fixed
 temporary
+=======
+I modified
+other fixed
+>>>>>>> 99535136d6ea819f1b8511f52db17b4d449f8b45
